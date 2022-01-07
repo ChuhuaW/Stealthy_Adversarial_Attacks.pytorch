@@ -3,7 +3,7 @@ Zhenhua Chen*, Chuhua Wang*, David J. Crandall
 
 [pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Chen_Semantically_Stealthy_Adversarial_Attacks_Against_Segmentation_Models_WACV_2022_paper.pdf)
 
-The source code and pretrained models will be made availble. Stay tuned.
+The source code and pretrained models will be made availble on 1/20. Stay tuned.
 
 ```
 @InProceedings{Chen_2022_WACV,
